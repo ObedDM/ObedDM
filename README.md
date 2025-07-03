@@ -48,7 +48,7 @@ I've developed robust RESTful APIs both independently and while leading small te
       <img src="assets/git.png" alt="git logo" width="50">
       <img src="assets/figma.png" alt="figma logo" width="30">
       <img src="assets/postman.svg" alt="postman logo" width="50">
-      <img src="assets/jwt.png" alt="jwt logo" width="50">
+      <img src="assets/jwt.svg" alt="jwt logo" width="50">
       <img src="assets/vscode.png" alt="vscode logo" width="40">
     </td>
     <td valign="top">
