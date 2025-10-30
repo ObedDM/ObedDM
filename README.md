@@ -2,9 +2,9 @@
 
 ## 💫 About Me:
 
-I'm a Computer Systems Engineering student with a strong interest in Fullstack Development, Machine Learning, Blockchain & Web3, Data Analysis, Database Modeling, and Networking.
+I'm a Computer Systems Engineer with a strong interest in Fullstack Development,  Blockchain & Web3, Machine Learning, Data Analysis, Database Modeling, and Networking.
 
-I've developed robust RESTful APIs both independently and while leading small teams, and I enjoy building real-world software that solves practical problems. I'm passionate about learning by doing and constantly expanding my knowledge through hands-on projects.
+I've developed robust RESTful & WebSocket APIs both independently and while leading small teams, and I enjoy building real-world software that solves practical problems. I'm passionate about learning by doing and constantly expanding my knowledge through hands-on projects.
 
 ## 🛠️ My skills:
 
@@ -16,47 +16,69 @@ I've developed robust RESTful APIs both independently and while leading small te
   </tr>
   <tr>
     <td valign="top">
-      <img src="assets/rust.png" alt="rust logo" width="50">  
-      <img src="assets/python.png" alt="python logo" width="50">
-      <img src="assets/java.png" alt="java logo" width="60">
-      <img src="assets/sql.png" alt="sql logo" width="50">
-      <img src="assets/js.png" alt="javascript logo" width="50">
-      <img src="assets/ts.png" alt="typescript logo" width="62.2">
+      <img src="assets/languages/rust.png" alt="rust logo" width="50">  
+      <img src="assets/languages/python.png" alt="python logo" width="50">
+      <img src="assets/languages/java.png" alt="java logo" width="60">
+      <img src="assets/languages/sql.png" alt="sql logo" width="50">
+      <img src="assets/languages/js.png" alt="javascript logo" width="50">
+      <img src="assets/languages/ts.png" alt="typescript logo" width="62.2">
     </td>
     <td valign="top">
-      <img src="assets/react.png" alt="react logo" width="50">
-      <img src="assets/react-router.svg" alt="react-router logo" width="50">
-      <img src="assets/tailwind.svg" alt="tailwind logo" width="50">
+      <img src="assets/frontend/react.png" alt="react logo" width="50">
+      <img src="assets/frontend/react-router.svg" alt="react-router logo" width="50">
+      <img src="assets/frontend/tailwind.svg" alt="tailwind logo" width="50">
     </td>
     <td valign="top">
       <img src="https://img.shields.io/badge/AXUM-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="axum logo" width="145">
-      <img src="assets/seaorm.png" alt="seaorm logo" width="65">
-      <img src="assets/django.png" alt="django logo" width="50">
+      <img src="assets/backend/spring.png" alt="spring logo" width="45">
       <img src="https://static.cdnlogo.com/logos/f/59/fastapi.svg" alt="fastapi logo" width="50">
+      <img src="assets/backend/django.png" alt="django logo" width="50">
+      <img src="assets/backend/seaorm.png" alt="seaorm logo" width="55">
+      <img src="assets/backend/hibernate.png" alt="hibernate logo" width="45">
+      <img src="assets/backend/sqlmodel.png" alt="sqlmodel logo" width="47">
     </td>
   </tr>
 </table>
 
 <table style="display: flex; justify-content: center">
   <tr>
+    <td align="center"><strong>Blockchain </strong></td>
+    <td align="center"><strong>Data Science </strong></td>
     <td align="center"><strong>Tools ⚙️</strong></td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <img src="assets/blockchain/solidity.png" alt="git logo" width="35">
+      <img src="assets/blockchain/remix.png" alt="git logo" width="60">
+    </td>
+    <td valign="top">
+      <img src="assets/data-science/pandas.png" alt="git logo" width="50">
+      <img src="assets/data-science/seaborn.png" alt="git logo" width="50">
+    </td>
+    <td valign="top">
+      <img src="assets/tools/git.png" alt="git logo" width="50">
+      <img src="assets/tools/figma.png" alt="figma logo" width="30">
+      <img src="assets/tools/postman.svg" alt="postman logo" width="50">
+      <img src="assets/tools/jwt.svg" alt="jwt logo" width="50">
+      <img src="assets/tools/vscode.png" alt="vscode logo" width="40">
+    </td>
+  </tr>
+</table>
+
+<table style="display: flex; justify-content: center">
+  <tr>
     <td align="center"><strong>Databases 🗄️</strong></td>
     <td align="center"><strong>Protocols </strong></td>
   </tr>
   <tr>
     <td valign="top">
-      <img src="assets/git.png" alt="git logo" width="50">
-      <img src="assets/figma.png" alt="figma logo" width="30">
-      <img src="assets/postman.svg" alt="postman logo" width="50">
-      <img src="assets/jwt.svg" alt="jwt logo" width="50">
-      <img src="assets/vscode.png" alt="vscode logo" width="40">
+      <img src="assets/database/postgresql.png" alt="postgresql logo" width="50">
+      <img src="assets/database/oraclexe.png" alt="oraclexe logo" width="40">
+      <img src="assets/database/mongodb.png" alt="mongodb logo" width="60">
     </td>
     <td valign="top">
-      <img src="assets/postgresql.png" alt="postgres logo" width="50">
-      <img src="assets/oraclexe.png" alt="oraclexe logo" width="40">
-    </td>
-    <td valign="top">
-      <img src="assets/http.png" alt="http logo" width="90">
+      <img src="assets/protocols/http.png" alt="http logo" width="90">
+      <img src="assets/protocols/websockets.png" alt="http logo" width="70">
     </td>
   </tr>
 </table>
